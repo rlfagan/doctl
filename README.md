@@ -11,6 +11,7 @@
   <a href="https://godoc.org/github.com/digitalocean/doctl">
     <img src="https://godoc.org/github.com/digitalocean/doctl?status.svg" alt="GoDoc" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fdoctl?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fdoctl.svg?type=shield"/></a>
   <a href="https://goreportcard.com/report/github.com/digitalocean/doctl">
     <img src="https://goreportcard.com/badge/github.com/digitalocean/doctl" alt="Go Report Card" />
   </a>
@@ -400,3 +401,7 @@ doctl compute ssh <user>@<droplet-name>
 * [How To Work with DigitalOcean Load Balancers Using Doctl](https://www.digitalocean.com/community/tutorials/how-to-work-with-digitalocean-load-balancers-using-doctl)
 * [How To Secure Web Server Infrastructure With DigitalOcean Cloud Firewalls Using Doctl](https://www.digitalocean.com/community/tutorials/how-to-secure-web-server-infrastructure-with-digitalocean-cloud-firewalls-using-doctl)
 * [How To Work with DigitalOcean Block Storage Using Doctl](https://www.digitalocean.com/community/tutorials/how-to-work-with-digitalocean-block-storage-using-doctl)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fdoctl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fdoctl?ref=badge_large)
