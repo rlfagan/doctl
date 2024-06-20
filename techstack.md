@@ -310,112 +310,112 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[gogo/protobuf](https://pkg.go.dev/github.com/gogo/protobuf)|v1.1.1|06/01/20|Scott Crawford |Other|[CVE-2021-3121](https://github.com/advisories/GHSA-c3h9-896r-86jm) (High)|
-|[websocket](https://pkg.go.dev/github.com/gorilla/websocket)|v1.4.0|10/28/19|Zach Gershman |BSD-3-Clause|[CVE-2020-27813](https://github.com/advisories/GHSA-3xh2-74w9-5vxm) (High)|
-|[crypto](https://pkg.go.dev/golang.org/x/crypto)|v0.0.0|04/21/20|Ben Tranter |BSD-3-Clause|[CVE-2020-9283](https://github.com/advisories/GHSA-ffhg-7mh4-33c4) (Moderate)|
-|[yaml.v2](https://pkg.go.dev/gopkg.in/yaml.v2)|v2.0.0|05/20/20|Andrew Starr-Bochicchio |LGPL-3.0|[CVE-2019-11254](https://github.com/advisories/GHSA-wxc4-f4m6-wwqv) (Moderate)|
-|[OneOfOne/xxhash](https://pkg.go.dev/github.com/OneOfOne/xxhash)|v1.2.2|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[afero](https://pkg.go.dev/github.com/spf13/afero)|v1.1.2|11/28/18|Antoine Grondin |Apache-2.0|N/A|
-|[ansicolor](https://pkg.go.dev/github.com/shiena/ansicolor)|v0.0.0|06/19/19|Hilary Holz |MIT|N/A|
-|[appengine](https://pkg.go.dev/google.golang.org/appengine)|v1.1.0|06/01/20|Scott Crawford |Apache-2.0|N/A|
-|[armon/consul-api](https://pkg.go.dev/github.com/armon/consul-api)|v0.0.0|10/28/19|Zach Gershman |MPL-2.0|N/A|
-|[atomic](https://pkg.go.dev/go.uber.org/atomic)|v1.4.0|10/28/19|Zach Gershman |MIT|N/A|
-|[bbolt](https://pkg.go.dev/github.com/coreos/bbolt)|v1.3.2|10/28/19|Zach Gershman |MIT|N/A|
-|[blackfriday](https://pkg.go.dev/github.com/russross/blackfriday)|v1.5.2|09/26/19|Andrew Starr-Bochicchio |Other|N/A|
-|[btree](https://pkg.go.dev/github.com/google/btree)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[cast](https://pkg.go.dev/github.com/spf13/cast)|v1.3.0|11/28/18|Antoine Grondin |MIT|N/A|
-|[cespare/xxhash](https://pkg.go.dev/github.com/cespare/xxhash)|v1.1.0|10/28/19|Zach Gershman |MIT|N/A|
-|[check.v1](https://pkg.go.dev/gopkg.in/check.v1)|v0.0.0|03/23/20|Hilary Holz |N/A|N/A|
-|[client-go](https://pkg.go.dev/k8s.io/client-go)|v0.17.0|02/18/20|Ben Tranter |Apache-2.0|N/A|
-|[client_model](https://pkg.go.dev/github.com/prometheus/client_model)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[clockwork](https://pkg.go.dev/github.com/jonboulle/clockwork)|v0.1.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[cobra](https://pkg.go.dev/github.com/spf13/cobra)|v0.0.3|06/19/19|Hilary Holz |Apache-2.0|N/A|
-|[color](https://pkg.go.dev/github.com/fatih/color)|v1.7.0|06/19/19|Hilary Holz |MIT|N/A|
-|[common](https://pkg.go.dev/github.com/prometheus/common)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[crypt](https://pkg.go.dev/github.com/xordataexchange/crypt)|v0.0.3|10/28/19|Zach Gershman |MIT|N/A|
-|[errcheck](https://pkg.go.dev/github.com/kisielk/errcheck)|v1.1.0|10/28/19|Zach Gershman |MIT|N/A|
-|[errors](https://pkg.go.dev/github.com/pkg/errors)|v0.8.0|10/28/19|Zach Gershman |BSD-2-Clause|N/A|
-|[etcd](https://pkg.go.dev/github.com/coreos/etcd)|N/A|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[fastuuid](https://pkg.go.dev/github.com/rogpeppe/fastuuid)|v0.0.0|10/28/19|Zach Gershman |BSD-3-Clause|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.4.7|10/28/19|Zach Gershman |BSD-3-Clause|N/A|
-|[glob](https://pkg.go.dev/github.com/gobwas/glob)|v0.2.3|06/19/19|Hilary Holz |MIT|N/A|
-|[glog](https://pkg.go.dev/github.com/golang/glog)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[go](https://pkg.go.dev/cloud.google.com/go)|v0.26.0|06/05/19|Bouke van der Bijl |Apache-2.0|N/A|
-|[go-difflib](https://pkg.go.dev/github.com/pmezard/go-difflib)|v0.0.0|06/05/19|Bouke van der Bijl |BSD-3-Clause|N/A|
-|[go-grpc-prometheus](https://pkg.go.dev/github.com/grpc-ecosystem/go-grpc-prometheus)|v1.2.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[go-humanize](https://pkg.go.dev/github.com/dustin/go-humanize)|v1.0.0|06/19/19|Hilary Holz |Other|N/A|
-|[go-md2man](https://pkg.go.dev/github.com/cpuguy83/go-md2man)|v1.0.10|09/26/19|Andrew Starr-Bochicchio |MIT|N/A|
-|[go-querystring](https://pkg.go.dev/github.com/google/go-querystring)|v1.0.0|06/05/19|Bouke van der Bijl |BSD-3-Clause|N/A|
-|[go-semver](https://pkg.go.dev/github.com/coreos/go-semver)|v0.2.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[go-systemd](https://pkg.go.dev/github.com/coreos/go-systemd)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[go-toml](https://pkg.go.dev/github.com/pelletier/go-toml)|v1.2.0|10/28/19|Zach Gershman |MIT|N/A|
-|[godo](https://pkg.go.dev/github.com/digitalocean/godo)|v1.37.0|06/01/20|Scott Crawford |Other|N/A|
-|[golang_protobuf_extensions](https://pkg.go.dev/github.com/matttproud/golang_protobuf_extensions)|v1.0.1|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[google/uuid](https://pkg.go.dev/github.com/google/uuid)|v1.1.1|06/01/20|Scott Crawford |BSD-3-Clause|N/A|
-|[gotool](https://pkg.go.dev/github.com/kisielk/gotool)|v1.0.0|10/28/19|Zach Gershman |MIT|N/A|
-|[groupcache](https://pkg.go.dev/github.com/golang/groupcache)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[hcl](https://pkg.go.dev/github.com/hashicorp/hcl)|v1.0.0|11/28/18|Antoine Grondin |MPL-2.0|N/A|
-|[httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter)|v1.2.0|10/28/19|Zach Gershman |BSD-3-Clause|N/A|
-|[json-iterator/go](https://pkg.go.dev/github.com/json-iterator/go)|v0.0.0|11/14/19|Kamal Nasser |MIT|N/A|
-|[jwalterweatherman](https://pkg.go.dev/github.com/spf13/jwalterweatherman)|v1.0.0|10/28/19|Zach Gershman |MIT|N/A|
-|[jwt-go](https://pkg.go.dev/github.com/dgrijalva/jwt-go)|N/A|10/28/19|Zach Gershman |MIT|N/A|
-|[kingpin.v2](https://pkg.go.dev/gopkg.in/alecthomas/kingpin.v2)|v2.2.6|10/28/19|Zach Gershman |N/A|N/A|
-|[kit](https://pkg.go.dev/github.com/go-kit/kit)|v0.8.0|11/28/18|Antoine Grondin |MIT|N/A|
-|[kr/logfmt](https://pkg.go.dev/github.com/kr/logfmt)|v0.0.0|10/28/19|Zach Gershman |MIT|N/A|
-|[kr/text](https://pkg.go.dev/github.com/kr/text)|v0.1.0|10/28/19|Zach Gershman |MIT|N/A|
-|[logfmt](https://pkg.go.dev/github.com/go-logfmt/logfmt)|v0.3.0|10/28/19|Zach Gershman |MIT|N/A|
-|[logr](https://pkg.go.dev/github.com/go-logr/logr)|v0.1.0|11/14/19|Kamal Nasser |Apache-2.0|N/A|
-|[logrus](https://pkg.go.dev/github.com/sirupsen/logrus)|v1.2.0|10/28/19|Zach Gershman |MIT|N/A|
-|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v1.1.2|11/28/18|Antoine Grondin |MIT|N/A|
-|[mergo](https://pkg.go.dev/github.com/imdario/mergo)|v0.3.5|06/19/19|Hilary Holz |BSD-3-Clause|N/A|
-|[misspell](https://pkg.go.dev/github.com/client9/misspell)|v0.3.4|10/28/19|Zach Gershman |MIT|N/A|
-|[mock](https://pkg.go.dev/github.com/golang/mock)|v1.1.1|02/18/20|Ben Tranter |Apache-2.0|N/A|
-|[mousetrap](https://pkg.go.dev/github.com/inconshreveable/mousetrap)|v1.0.0|06/19/19|Hilary Holz |Apache-2.0|N/A|
-|[murmur3](https://pkg.go.dev/github.com/spaolacci/murmur3)|v0.0.0|10/28/19|Zach Gershman |BSD-3-Clause|N/A|
-|[net](https://pkg.go.dev/golang.org/x/net)|v0.0.0|06/19/19|Hilary Holz |BSD-3-Clause|N/A|
-|[oauth2](https://pkg.go.dev/golang.org/x/oauth2)|v0.0.0|04/01/20|Ben Tranter |BSD-3-Clause|N/A|
-|[objx](https://pkg.go.dev/github.com/stretchr/objx)|v0.2.0|03/23/20|Hilary Holz |MIT|N/A|
-|[perks](https://pkg.go.dev/github.com/beorn7/perks)|v0.0.0|10/28/19|Zach Gershman |MIT|N/A|
-|[pflag](https://pkg.go.dev/github.com/spf13/pflag)|v0.0.0|10/28/19|Zach Gershman |BSD-3-Clause|N/A|
-|[pie](https://pkg.go.dev/github.com/natefinch/pie)|v0.0.0|06/19/19|Hilary Holz |MIT|N/A|
-|[pkg](https://pkg.go.dev/github.com/coreos/pkg)|v0.0.0|11/28/18|Antoine Grondin |Apache-2.0|N/A|
-|[pretty](https://pkg.go.dev/github.com/kr/pretty)|v0.1.0|10/28/19|Zach Gershman |MIT|N/A|
-|[probing](https://pkg.go.dev/github.com/xiang90/probing)|v0.0.0|10/28/19|Zach Gershman |MIT|N/A|
-|[procfs](https://pkg.go.dev/github.com/prometheus/procfs)|v0.0.0|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[properties](https://pkg.go.dev/github.com/magiconair/properties)|v1.8.0|10/28/19|Zach Gershman |BSD-2-Clause|N/A|
-|[proto](https://pkg.go.dev/github.com/golang/protobuf/proto)|N/A|06/01/20|Scott Crawford |BSD-3-Clause|N/A|
-|[pty](https://pkg.go.dev/github.com/kr/pty)|v1.1.1|11/28/18|Antoine Grondin |MIT|N/A|
-|[soheilhy/cmux](https://pkg.go.dev/github.com/soheilhy/cmux)|v0.1.4|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[stack](https://pkg.go.dev/github.com/go-stack/stack)|v1.8.0|10/28/19|Zach Gershman |MIT|N/A|
-|[template](https://pkg.go.dev/github.com/alecthomas/template)|v0.0.0|10/28/19|Zach Gershman |BSD-3-Clause|N/A|
-|[text](https://pkg.go.dev/golang.org/x/text)|v0.0.0|04/21/20|Ben Tranter |BSD-3-Clause|N/A|
-|[toml](https://pkg.go.dev/github.com/BurntSushi/toml)|v0.3.1|10/28/19|Zach Gershman |MIT|N/A|
-|[tools](https://pkg.go.dev/golang.org/x/tools)|v0.0.0|04/21/20|Ben Tranter |BSD-3-Clause|N/A|
-|[tsdb](https://pkg.go.dev/github.com/prometheus/tsdb)|v0.7.1|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[ugorji/go](https://pkg.go.dev/github.com/ugorji/go)|v1.1.4|10/28/19|Zach Gershman |MIT|N/A|
-|[ulid](https://pkg.go.dev/github.com/oklog/ulid)|v1.3.1|10/28/19|Zach Gershman |Apache-2.0|N/A|
-|[units](https://pkg.go.dev/github.com/alecthomas/units)|v0.0.0|10/28/19|Zach Gershman |MIT|N/A|
-|[viper](https://pkg.go.dev/github.com/spf13/viper)|v1.4.0|10/28/19|Zach Gershman |MIT|N/A|
-|[yaml](https://pkg.go.dev/github.com/ghodss/yaml)|v0.0.0|10/28/19|Zach Gershman |Other|N/A|
-|[zap](https://pkg.go.dev/go.uber.org/zap)|v1.10.0|11/28/18|Antoine Grondin |MIT|N/A|
+|[gogo/protobuf](https://pkg.go.dev/github.com/gogo/protobuf)|v1.1.1|N/A|N/A |Other|[CVE-2021-3121](https://github.com/advisories/GHSA-c3h9-896r-86jm) (High)|
+|[websocket](https://pkg.go.dev/github.com/gorilla/websocket)|v1.4.0|N/A|N/A |BSD-3-Clause|[CVE-2020-27813](https://github.com/advisories/GHSA-3xh2-74w9-5vxm) (High)|
+|[crypto](https://pkg.go.dev/golang.org/x/crypto)|v0.0.0|N/A|N/A |BSD-3-Clause|[CVE-2020-9283](https://github.com/advisories/GHSA-ffhg-7mh4-33c4) (Moderate)|
+|[yaml.v2](https://pkg.go.dev/gopkg.in/yaml.v2)|v2.0.0|N/A|N/A |LGPL-3.0|[CVE-2019-11254](https://github.com/advisories/GHSA-wxc4-f4m6-wwqv) (Moderate)|
+|[OneOfOne/xxhash](https://pkg.go.dev/github.com/OneOfOne/xxhash)|v1.2.2|N/A|N/A |Apache-2.0|N/A|
+|[afero](https://pkg.go.dev/github.com/spf13/afero)|v1.1.2|N/A|N/A |Apache-2.0|N/A|
+|[ansicolor](https://pkg.go.dev/github.com/shiena/ansicolor)|v0.0.0|N/A|N/A |MIT|N/A|
+|[appengine](https://pkg.go.dev/google.golang.org/appengine)|v1.1.0|N/A|N/A |Apache-2.0|N/A|
+|[armon/consul-api](https://pkg.go.dev/github.com/armon/consul-api)|v0.0.0|N/A|N/A |MPL-2.0|N/A|
+|[atomic](https://pkg.go.dev/go.uber.org/atomic)|v1.4.0|N/A|N/A |MIT|N/A|
+|[bbolt](https://pkg.go.dev/github.com/coreos/bbolt)|v1.3.2|N/A|N/A |MIT|N/A|
+|[blackfriday](https://pkg.go.dev/github.com/russross/blackfriday)|v1.5.2|N/A|N/A |Other|N/A|
+|[btree](https://pkg.go.dev/github.com/google/btree)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[cast](https://pkg.go.dev/github.com/spf13/cast)|v1.3.0|N/A|N/A |MIT|N/A|
+|[cespare/xxhash](https://pkg.go.dev/github.com/cespare/xxhash)|v1.1.0|N/A|N/A |MIT|N/A|
+|[check.v1](https://pkg.go.dev/gopkg.in/check.v1)|v0.0.0|N/A|N/A |N/A|N/A|
+|[client-go](https://pkg.go.dev/k8s.io/client-go)|v0.17.0|N/A|N/A |Apache-2.0|N/A|
+|[client_model](https://pkg.go.dev/github.com/prometheus/client_model)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[clockwork](https://pkg.go.dev/github.com/jonboulle/clockwork)|v0.1.0|N/A|N/A |Apache-2.0|N/A|
+|[cobra](https://pkg.go.dev/github.com/spf13/cobra)|v0.0.3|N/A|N/A |Apache-2.0|N/A|
+|[color](https://pkg.go.dev/github.com/fatih/color)|v1.7.0|N/A|N/A |MIT|N/A|
+|[common](https://pkg.go.dev/github.com/prometheus/common)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[crypt](https://pkg.go.dev/github.com/xordataexchange/crypt)|v0.0.3|N/A|N/A |MIT|N/A|
+|[errcheck](https://pkg.go.dev/github.com/kisielk/errcheck)|v1.1.0|N/A|N/A |MIT|N/A|
+|[errors](https://pkg.go.dev/github.com/pkg/errors)|v0.8.0|N/A|N/A |BSD-2-Clause|N/A|
+|[etcd](https://pkg.go.dev/github.com/coreos/etcd)|N/A|N/A|N/A |Apache-2.0|N/A|
+|[fastuuid](https://pkg.go.dev/github.com/rogpeppe/fastuuid)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.4.7|N/A|N/A |BSD-3-Clause|N/A|
+|[glob](https://pkg.go.dev/github.com/gobwas/glob)|v0.2.3|N/A|N/A |MIT|N/A|
+|[glog](https://pkg.go.dev/github.com/golang/glog)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[go](https://pkg.go.dev/cloud.google.com/go)|v0.26.0|N/A|N/A |Apache-2.0|N/A|
+|[go-difflib](https://pkg.go.dev/github.com/pmezard/go-difflib)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[go-grpc-prometheus](https://pkg.go.dev/github.com/grpc-ecosystem/go-grpc-prometheus)|v1.2.0|N/A|N/A |Apache-2.0|N/A|
+|[go-humanize](https://pkg.go.dev/github.com/dustin/go-humanize)|v1.0.0|N/A|N/A |Other|N/A|
+|[go-md2man](https://pkg.go.dev/github.com/cpuguy83/go-md2man)|v1.0.10|N/A|N/A |MIT|N/A|
+|[go-querystring](https://pkg.go.dev/github.com/google/go-querystring)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[go-semver](https://pkg.go.dev/github.com/coreos/go-semver)|v0.2.0|N/A|N/A |Apache-2.0|N/A|
+|[go-systemd](https://pkg.go.dev/github.com/coreos/go-systemd)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[go-toml](https://pkg.go.dev/github.com/pelletier/go-toml)|v1.2.0|N/A|N/A |MIT|N/A|
+|[godo](https://pkg.go.dev/github.com/digitalocean/godo)|v1.37.0|N/A|N/A |Other|N/A|
+|[golang_protobuf_extensions](https://pkg.go.dev/github.com/matttproud/golang_protobuf_extensions)|v1.0.1|N/A|N/A |Apache-2.0|N/A|
+|[google/uuid](https://pkg.go.dev/github.com/google/uuid)|v1.1.1|N/A|N/A |BSD-3-Clause|N/A|
+|[gotool](https://pkg.go.dev/github.com/kisielk/gotool)|v1.0.0|N/A|N/A |MIT|N/A|
+|[groupcache](https://pkg.go.dev/github.com/golang/groupcache)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[hcl](https://pkg.go.dev/github.com/hashicorp/hcl)|v1.0.0|N/A|N/A |MPL-2.0|N/A|
+|[httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter)|v1.2.0|N/A|N/A |BSD-3-Clause|N/A|
+|[json-iterator/go](https://pkg.go.dev/github.com/json-iterator/go)|v0.0.0|N/A|N/A |MIT|N/A|
+|[jwalterweatherman](https://pkg.go.dev/github.com/spf13/jwalterweatherman)|v1.0.0|N/A|N/A |MIT|N/A|
+|[jwt-go](https://pkg.go.dev/github.com/dgrijalva/jwt-go)|N/A|N/A|N/A |MIT|N/A|
+|[kingpin.v2](https://pkg.go.dev/gopkg.in/alecthomas/kingpin.v2)|v2.2.6|N/A|N/A |N/A|N/A|
+|[kit](https://pkg.go.dev/github.com/go-kit/kit)|v0.8.0|N/A|N/A |MIT|N/A|
+|[kr/logfmt](https://pkg.go.dev/github.com/kr/logfmt)|v0.0.0|N/A|N/A |MIT|N/A|
+|[kr/text](https://pkg.go.dev/github.com/kr/text)|v0.1.0|N/A|N/A |MIT|N/A|
+|[logfmt](https://pkg.go.dev/github.com/go-logfmt/logfmt)|v0.3.0|N/A|N/A |MIT|N/A|
+|[logr](https://pkg.go.dev/github.com/go-logr/logr)|v0.1.0|N/A|N/A |Apache-2.0|N/A|
+|[logrus](https://pkg.go.dev/github.com/sirupsen/logrus)|v1.2.0|N/A|N/A |MIT|N/A|
+|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v1.1.2|N/A|N/A |MIT|N/A|
+|[mergo](https://pkg.go.dev/github.com/imdario/mergo)|v0.3.5|N/A|N/A |BSD-3-Clause|N/A|
+|[misspell](https://pkg.go.dev/github.com/client9/misspell)|v0.3.4|N/A|N/A |MIT|N/A|
+|[mock](https://pkg.go.dev/github.com/golang/mock)|v1.1.1|N/A|N/A |Apache-2.0|N/A|
+|[mousetrap](https://pkg.go.dev/github.com/inconshreveable/mousetrap)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
+|[murmur3](https://pkg.go.dev/github.com/spaolacci/murmur3)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[net](https://pkg.go.dev/golang.org/x/net)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[oauth2](https://pkg.go.dev/golang.org/x/oauth2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[objx](https://pkg.go.dev/github.com/stretchr/objx)|v0.2.0|N/A|N/A |MIT|N/A|
+|[perks](https://pkg.go.dev/github.com/beorn7/perks)|v0.0.0|N/A|N/A |MIT|N/A|
+|[pflag](https://pkg.go.dev/github.com/spf13/pflag)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pie](https://pkg.go.dev/github.com/natefinch/pie)|v0.0.0|N/A|N/A |MIT|N/A|
+|[pkg](https://pkg.go.dev/github.com/coreos/pkg)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[pretty](https://pkg.go.dev/github.com/kr/pretty)|v0.1.0|N/A|N/A |MIT|N/A|
+|[probing](https://pkg.go.dev/github.com/xiang90/probing)|v0.0.0|N/A|N/A |MIT|N/A|
+|[procfs](https://pkg.go.dev/github.com/prometheus/procfs)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[properties](https://pkg.go.dev/github.com/magiconair/properties)|v1.8.0|N/A|N/A |BSD-2-Clause|N/A|
+|[proto](https://pkg.go.dev/github.com/golang/protobuf/proto)|N/A|N/A|N/A |BSD-3-Clause|N/A|
+|[pty](https://pkg.go.dev/github.com/kr/pty)|v1.1.1|N/A|N/A |MIT|N/A|
+|[soheilhy/cmux](https://pkg.go.dev/github.com/soheilhy/cmux)|v0.1.4|N/A|N/A |Apache-2.0|N/A|
+|[stack](https://pkg.go.dev/github.com/go-stack/stack)|v1.8.0|N/A|N/A |MIT|N/A|
+|[template](https://pkg.go.dev/github.com/alecthomas/template)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[text](https://pkg.go.dev/golang.org/x/text)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[toml](https://pkg.go.dev/github.com/BurntSushi/toml)|v0.3.1|N/A|N/A |MIT|N/A|
+|[tools](https://pkg.go.dev/golang.org/x/tools)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[tsdb](https://pkg.go.dev/github.com/prometheus/tsdb)|v0.7.1|N/A|N/A |Apache-2.0|N/A|
+|[ugorji/go](https://pkg.go.dev/github.com/ugorji/go)|v1.1.4|N/A|N/A |MIT|N/A|
+|[ulid](https://pkg.go.dev/github.com/oklog/ulid)|v1.3.1|N/A|N/A |Apache-2.0|N/A|
+|[units](https://pkg.go.dev/github.com/alecthomas/units)|v0.0.0|N/A|N/A |MIT|N/A|
+|[viper](https://pkg.go.dev/github.com/spf13/viper)|v1.4.0|N/A|N/A |MIT|N/A|
+|[yaml](https://pkg.go.dev/github.com/ghodss/yaml)|v0.0.0|N/A|N/A |Other|N/A|
+|[zap](https://pkg.go.dev/go.uber.org/zap)|v1.10.0|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[bl](https://www.npmjs.com/bl)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[co](https://www.npmjs.com/co)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[github](https://www.npmjs.com/github)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[http](https://www.npmjs.com/http)|N/A|11/28/18|Antoine Grondin |BSD-2-Clause|N/A|
-|[https](https://www.npmjs.com/https)|N/A|11/28/18|Antoine Grondin |ISC|N/A|
-|[i](https://www.npmjs.com/i)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[is](https://www.npmjs.com/is)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[mv](https://www.npmjs.com/mv)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[publish](https://www.npmjs.com/publish)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
-|[semver](https://www.npmjs.com/semver)|N/A|11/28/18|Antoine Grondin |ISC|N/A|
-|[url](https://www.npmjs.com/url)|N/A|11/28/18|Antoine Grondin |MIT|N/A|
+|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|N/A|N/A|N/A |MIT|N/A|
+|[bl](https://www.npmjs.com/bl)|N/A|N/A|N/A |MIT|N/A|
+|[co](https://www.npmjs.com/co)|N/A|N/A|N/A |MIT|N/A|
+|[github](https://www.npmjs.com/github)|N/A|N/A|N/A |MIT|N/A|
+|[http](https://www.npmjs.com/http)|N/A|N/A|N/A |BSD-2-Clause|N/A|
+|[https](https://www.npmjs.com/https)|N/A|N/A|N/A |ISC|N/A|
+|[i](https://www.npmjs.com/i)|N/A|N/A|N/A |MIT|N/A|
+|[is](https://www.npmjs.com/is)|N/A|N/A|N/A |MIT|N/A|
+|[mv](https://www.npmjs.com/mv)|N/A|N/A|N/A |MIT|N/A|
+|[publish](https://www.npmjs.com/publish)|N/A|N/A|N/A |MIT|N/A|
+|[semver](https://www.npmjs.com/semver)|N/A|N/A|N/A |ISC|N/A|
+|[url](https://www.npmjs.com/url)|N/A|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
