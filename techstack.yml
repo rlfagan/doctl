@@ -2,7 +2,7 @@ repo_name: rlfagan/doctl
 report_id: c6e0ee2bd3c613955eb4f35f4910d682
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-20T23:06:07+00:00'
+timestamp: '2024-06-20T23:13:56+00:00'
 requested_by: ejiek
 provider: github
 branch: master
@@ -18,8 +18,6 @@ tools:
   image_url: https://img.stackshare.io/no-img-open-source.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: D
   description: Modern convenience. Modeling power. Native efficiency.
   website_url: http://dlang.org/
@@ -30,8 +28,6 @@ tools:
   image_url: https://img.stackshare.io/service/3117/d-5.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
     reliable, and efficient software
@@ -55,8 +51,6 @@ tools:
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/digitalocean/godo/go.mod
   detection_source: vendor/github.com/digitalocean/godo/go.mod
-  last_updated_by: Bouke van der Bijl
-  last_updated_on: 2019-06-05 13:09:21.000000000 Z
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
     to Perl, Ruby, Scheme, or Java.
@@ -68,8 +62,6 @@ tools:
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
     on simplicity and productivity
@@ -81,8 +73,6 @@ tools:
   image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
     many different types of applications
@@ -95,8 +85,6 @@ tools:
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Protobuf
   description: Google's data interchange format
   website_url: https://developers.google.com/protocol-buffers/
@@ -107,8 +95,6 @@ tools:
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.mod
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
 - name: gRPC
   description: A high performance, open-source universal RPC framework
   website_url: https://grpc.io/
@@ -120,8 +106,6 @@ tools:
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/spf13/viper/go.mod
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Azure Pipelines
   description: Continuously build, test, and deploy to any platform and cloud
   website_url: https://azure.microsoft.com/ko-kr/services/devops/pipelines/
@@ -132,8 +116,6 @@ tools:
   image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/pelletier/go-toml/azure-pipelines.yml
   detection_source: vendor/github.com/pelletier/go-toml/azure-pipelines.yml
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: Codecov
   description: Hosted coverage reports with awesome features to enhance your CI workflow
   website_url: https://codecov.io/
@@ -144,8 +126,6 @@ tools:
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/json-iterator/go/.codecov.yml
   detection_source: vendor/github.com/json-iterator/go/.codecov.yml
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -180,8 +160,6 @@ tools:
   image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: NuGet
   description: The package manager for .NET
   website_url: https://www.nuget.org/
@@ -192,8 +170,6 @@ tools:
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Prometheus
   description: An open-source service monitoring system and time series database,
     developed by SoundCloud
@@ -206,8 +182,6 @@ tools:
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/spf13/viper/go.mod
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: PyPI
   description: A repository of software for the Python programming language
   website_url: https://pypi.org/
@@ -218,8 +192,6 @@ tools:
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
   website_url: https://rubygems.org/
@@ -230,8 +202,6 @@ tools:
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: Testify
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
@@ -244,8 +214,6 @@ tools:
   image_url: https://img.stackshare.io/service/8695/stretchr.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.mod
   detection_source: go.mod
-  last_updated_by: Kamal Nasser
-  last_updated_on: 2019-11-14 20:08:47.000000000 Z
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
     projects
@@ -257,8 +225,6 @@ tools:
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/.travis.yml
   detection_source: ".travis.yml"
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-10-01 21:33:59.000000000 Z
 - name: hub
   description: Wraps Git with extra features that make working with GitHub easier
     (by GitHub)
@@ -271,8 +237,6 @@ tools:
   image_url: https://img.stackshare.io/no-img-open-source.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -283,8 +247,6 @@ tools:
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/digitalocean/godo/go.mod
   detection_source: vendor/github.com/digitalocean/godo/go.mod
-  last_updated_by: Bouke van der Bijl
-  last_updated_on: 2019-06-05 13:09:21.000000000 Z
 - name: DigitalOcean
   description: Deploy an SSD cloud server in less than 55 seconds with a dedicated
     IP and root access.
@@ -296,8 +258,6 @@ tools:
   image_url: https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.mod
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
 - name: Alpine Linux
   description: Security-oriented, lightweight Linux distribution based on musl libc
     and busybox
@@ -310,8 +270,6 @@ tools:
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/Dockerfile
   detection_source: Dockerfile
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-12-07 20:44:46.000000000 Z
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -333,8 +291,6 @@ tools:
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/golang.org/x/net/http2/Dockerfile
   detection_source: vendor/golang.org/x/net/http2/Dockerfile
-  last_updated_by: Joonas Bergius
-  last_updated_on: 2017-10-07 01:50:18.000000000 Z
 - name: gogo/protobuf
   description: Protocol Buffers for Go with Gadgets
   package_url: https://pkg.go.dev/github.com/gogo/protobuf
@@ -347,8 +303,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
   vulnerabilities:
   - name: Improper Input Validation in GoGo Protobuf
     cve_id: CVE-2021-3121
@@ -368,8 +322,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
   vulnerabilities:
   - name: Integer overflow in github.com/gorilla/websocket
     cve_id: CVE-2020-27813
@@ -389,8 +341,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Ben Tranter
-  last_updated_on: 2020-04-21 18:55:42.000000000 Z
   vulnerabilities:
   - name: Improper Verification of Cryptographic Signature in golang.org/x/crypto
     cve_id: CVE-2020-9283
@@ -410,8 +360,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Andrew Starr-Bochicchio
-  last_updated_on: 2020-05-20 14:43:36.000000000 Z
   vulnerabilities:
   - name: Excessive Platform Resource Consumption within a Loop in Kubernetes
     cve_id: CVE-2019-11254
@@ -431,8 +379,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: afero
   description: A FileSystem Abstraction System for Go
   package_url: https://pkg.go.dev/github.com/spf13/afero
@@ -445,8 +391,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/afero/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: ansicolor
   description: Ansicolor library provides color console in Windows as ANSICON for
     Golang
@@ -460,8 +404,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: appengine
   description: Go App Engine packages
   package_url: https://pkg.go.dev/google.golang.org/appengine
@@ -474,8 +416,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
 - name: armon/consul-api
   description: Golang API client for Consul
   package_url: https://pkg.go.dev/github.com/armon/consul-api
@@ -488,8 +428,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: atomic
   description: Wrapper types for sync/atomic which enforce atomic access
   package_url: https://pkg.go.dev/go.uber.org/atomic
@@ -502,8 +440,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: bbolt
   description: An embedded key/value database for Go
   package_url: https://pkg.go.dev/github.com/coreos/bbolt
@@ -516,8 +452,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: blackfriday
   description: 'Blackfriday: a markdown processor for Go'
   package_url: https://pkg.go.dev/github.com/russross/blackfriday
@@ -530,8 +464,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/russross/blackfriday/go.mod
-  last_updated_by: Andrew Starr-Bochicchio
-  last_updated_on: 2019-09-26 18:26:38.000000000 Z
 - name: btree
   description: Package btree implements in-memory B-Trees of arbitrary degree
   package_url: https://pkg.go.dev/github.com/google/btree
@@ -544,8 +476,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: cast
   description: Safe and easy casting from one type to another in Go
   package_url: https://pkg.go.dev/github.com/spf13/cast
@@ -558,8 +488,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/cast/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: cespare/xxhash
   description: A Go implementation of the 64-bit xxHash algorithm
   package_url: https://pkg.go.dev/github.com/cespare/xxhash
@@ -572,8 +500,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: check.v1
   description: Package check is a rich testing extension for Go's testing package
   package_url: https://pkg.go.dev/gopkg.in/check.v1
@@ -585,8 +511,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.sum
-  last_updated_by: Hilary Holz
-  last_updated_on: 2020-03-23 22:05:47.000000000 Z
 - name: client-go
   description: Go client for Kubernetes
   package_url: https://pkg.go.dev/k8s.io/client-go
@@ -599,8 +523,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Ben Tranter
-  last_updated_on: 2020-02-18 17:45:30.000000000 Z
 - name: client_model
   description: Data model artifacts for Prometheus
   package_url: https://pkg.go.dev/github.com/prometheus/client_model
@@ -613,8 +535,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: clockwork
   description: A fake clock for golang
   package_url: https://pkg.go.dev/github.com/jonboulle/clockwork
@@ -627,8 +547,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: cobra
   description: A Commander for modern Go CLI interactions
   package_url: https://pkg.go.dev/github.com/spf13/cobra
@@ -641,8 +559,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: color
   description: Color package for Go
   package_url: https://pkg.go.dev/github.com/fatih/color
@@ -655,8 +571,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: common
   description: Go libraries shared across Prometheus components and libraries
   package_url: https://pkg.go.dev/github.com/prometheus/common
@@ -669,8 +583,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: crypt
   description: Store and retrieve encrypted configs from etcd or consul
   package_url: https://pkg.go.dev/github.com/xordataexchange/crypt
@@ -683,8 +595,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: errcheck
   description: Errcheck checks that you checked errors
   package_url: https://pkg.go.dev/github.com/kisielk/errcheck
@@ -697,8 +607,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: errors
   description: Simple error handling primitives
   package_url: https://pkg.go.dev/github.com/pkg/errors
@@ -711,8 +619,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: etcd
   description: Distributed reliable key-value store for the most critical data of
     a distributed system
@@ -725,8 +631,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/spf13/viper/go.mod
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: fastuuid
   description: Fast generation of 192-bit UUIDs
   package_url: https://pkg.go.dev/github.com/rogpeppe/fastuuid
@@ -739,8 +643,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: fsnotify
   description: Cross-platform file system notifications for Go
   package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
@@ -753,8 +655,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: glob
   description: Go glob
   package_url: https://pkg.go.dev/github.com/gobwas/glob
@@ -767,8 +667,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: glog
   description: Leveled execution logs for Go
   package_url: https://pkg.go.dev/github.com/golang/glog
@@ -781,8 +679,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: go
   description: Google Cloud Client Libraries for Go
   package_url: https://pkg.go.dev/cloud.google.com/go
@@ -795,8 +691,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.sum
-  last_updated_by: Bouke van der Bijl
-  last_updated_on: 2019-06-05 13:09:21.000000000 Z
 - name: go-difflib
   description: Partial port of Python difflib package to Go
   package_url: https://pkg.go.dev/github.com/pmezard/go-difflib
@@ -809,8 +703,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.sum
-  last_updated_by: Bouke van der Bijl
-  last_updated_on: 2019-06-05 13:09:21.000000000 Z
 - name: go-grpc-prometheus
   description: Prometheus monitoring for your gRPC Go servers
   package_url: https://pkg.go.dev/github.com/grpc-ecosystem/go-grpc-prometheus
@@ -823,8 +715,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: go-humanize
   description: Go Humans!
   package_url: https://pkg.go.dev/github.com/dustin/go-humanize
@@ -837,8 +727,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: go-md2man
   description: Go-md2man ** Work in Progress ** This still needs a lot of help to
     be complete
@@ -852,8 +740,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Andrew Starr-Bochicchio
-  last_updated_on: 2019-09-26 18:26:38.000000000 Z
 - name: go-querystring
   description: Go-querystring is Go library for encoding structs into URL query parameters
   package_url: https://pkg.go.dev/github.com/google/go-querystring
@@ -866,8 +752,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.mod
-  last_updated_by: Bouke van der Bijl
-  last_updated_on: 2019-06-05 13:09:21.000000000 Z
 - name: go-semver
   description: Semver library in Go
   package_url: https://pkg.go.dev/github.com/coreos/go-semver
@@ -880,8 +764,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: go-systemd
   description: Go bindings to systemd socket activation
   package_url: https://pkg.go.dev/github.com/coreos/go-systemd
@@ -894,8 +776,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: go-toml
   description: Go library for the TOML language
   package_url: https://pkg.go.dev/github.com/pelletier/go-toml
@@ -908,8 +788,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: godo
   description: DigitalOcean Go API client
   package_url: https://pkg.go.dev/github.com/digitalocean/godo
@@ -922,8 +800,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
 - name: golang_protobuf_extensions
   description: Support for streaming Protocol Buffer messages for the Go language
   package_url: https://pkg.go.dev/github.com/matttproud/golang_protobuf_extensions
@@ -936,8 +812,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: google/uuid
   description: 'Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication
     and Security Services'
@@ -951,8 +825,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
 - name: gotool
   description: A library of some of the utility functions provided by
   package_url: https://pkg.go.dev/github.com/kisielk/gotool
@@ -965,8 +837,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: groupcache
   description: Groupcache is a caching and cache-filling library
   package_url: https://pkg.go.dev/github.com/golang/groupcache
@@ -979,8 +849,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: hcl
   description: HCL is the HashiCorp configuration language
   package_url: https://pkg.go.dev/github.com/hashicorp/hcl
@@ -993,8 +861,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/hashicorp/hcl/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: httprouter
   description: A high performance HTTP request router that scales well
   package_url: https://pkg.go.dev/github.com/julienschmidt/httprouter
@@ -1007,8 +873,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: json-iterator/go
   description: A high-performance 100% compatible drop-in replacement of "encoding/json"
   package_url: https://pkg.go.dev/github.com/json-iterator/go
@@ -1021,8 +885,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/json-iterator/go/go.mod
-  last_updated_by: Kamal Nasser
-  last_updated_on: 2019-11-14 17:52:55.000000000 Z
 - name: jwalterweatherman
   description: So you always leave a note
   package_url: https://pkg.go.dev/github.com/spf13/jwalterweatherman
@@ -1035,8 +897,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: jwt-go
   description: Golang implementation of JSON Web Tokens
   package_url: https://pkg.go.dev/github.com/dgrijalva/jwt-go
@@ -1048,8 +908,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/spf13/viper/go.mod
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: kingpin.v2
   description: 'Package kingpin provides command line interfaces like this:'
   package_url: https://pkg.go.dev/gopkg.in/alecthomas/kingpin.v2
@@ -1061,8 +919,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: kit
   description: A standard library for microservices
   package_url: https://pkg.go.dev/github.com/go-kit/kit
@@ -1075,8 +931,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: kr/logfmt
   description: Parse logfmt messages
   package_url: https://pkg.go.dev/github.com/kr/logfmt
@@ -1089,8 +943,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: kr/text
   description: Miscellaneous functions for formatting text
   package_url: https://pkg.go.dev/github.com/kr/text
@@ -1103,8 +955,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: logfmt
   description: Package logfmt marshals and unmarshals logfmt messages
   package_url: https://pkg.go.dev/github.com/go-logfmt/logfmt
@@ -1117,8 +967,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: logr
   description: A simple logging interface for Go
   package_url: https://pkg.go.dev/github.com/go-logr/logr
@@ -1131,8 +979,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/k8s.io/klog/go.mod
-  last_updated_by: Kamal Nasser
-  last_updated_on: 2019-11-14 17:52:55.000000000 Z
 - name: logrus
   description: Structured, pluggable logging for Go
   package_url: https://pkg.go.dev/github.com/sirupsen/logrus
@@ -1145,8 +991,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: mapstructure
   description: Go library for decoding generic map values into native Go structures
   package_url: https://pkg.go.dev/github.com/mitchellh/mapstructure
@@ -1159,8 +1003,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/mitchellh/mapstructure/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: mergo
   description: 'Mergo: merging Go structs and maps since 2013'
   package_url: https://pkg.go.dev/github.com/imdario/mergo
@@ -1173,8 +1015,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: misspell
   description: Correct commonly misspelled English words in source files
   package_url: https://pkg.go.dev/github.com/client9/misspell
@@ -1187,8 +1027,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: mock
   description: GoMock is a mocking framework for the Go programming language
   package_url: https://pkg.go.dev/github.com/golang/mock
@@ -1201,8 +1039,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Ben Tranter
-  last_updated_on: 2020-02-18 22:30:15.000000000 Z
 - name: mousetrap
   description: Detect starting from Windows explorer
   package_url: https://pkg.go.dev/github.com/inconshreveable/mousetrap
@@ -1215,8 +1051,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: murmur3
   description: Native MurmurHash3 Go implementation
   package_url: https://pkg.go.dev/github.com/spaolacci/murmur3
@@ -1229,8 +1063,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: net
   description: Go supplementary network libraries
   package_url: https://pkg.go.dev/golang.org/x/net
@@ -1243,8 +1075,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: oauth2
   description: Go OAuth2
   package_url: https://pkg.go.dev/golang.org/x/oauth2
@@ -1257,8 +1087,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Ben Tranter
-  last_updated_on: 2020-04-01 17:37:39.000000000 Z
 - name: objx
   description: Go package for dealing with maps
   package_url: https://pkg.go.dev/github.com/stretchr/objx
@@ -1271,8 +1099,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2020-03-23 22:05:47.000000000 Z
 - name: perks
   description: Effective Computation of Things
   package_url: https://pkg.go.dev/github.com/beorn7/perks
@@ -1285,8 +1111,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: pflag
   description: Drop-in replacement for Go's flag package
   package_url: https://pkg.go.dev/github.com/spf13/pflag
@@ -1299,8 +1123,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/pflag/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: pie
   description: A toolkit for creating plugins for Go applications
   package_url: https://pkg.go.dev/github.com/natefinch/pie
@@ -1313,8 +1135,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Hilary Holz
-  last_updated_on: 2019-06-19 19:16:32.000000000 Z
 - name: pkg
   description: A collection of go utility packages
   package_url: https://pkg.go.dev/github.com/coreos/pkg
@@ -1327,8 +1147,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: pretty
   description: Pretty printing for Go values
   package_url: https://pkg.go.dev/github.com/kr/pretty
@@ -1341,8 +1159,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: probing
   description: Getting Started Install the handler We first need to serve the probing
     HTTP handler
@@ -1356,8 +1172,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: procfs
   description: Procfs provides functions to retrieve system
   package_url: https://pkg.go.dev/github.com/prometheus/procfs
@@ -1370,8 +1184,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: properties
   description: Java properties scanner for Go
   package_url: https://pkg.go.dev/github.com/magiconair/properties
@@ -1384,8 +1196,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: proto
   description: Go support for Google's protocol buffers
   package_url: https://pkg.go.dev/github.com/golang/protobuf/proto
@@ -1397,8 +1207,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.mod
   detection_source: go.mod
-  last_updated_by: Scott Crawford
-  last_updated_on: 2020-06-01 21:47:07.000000000 Z
 - name: pty
   description: PTY interface for Go
   package_url: https://pkg.go.dev/github.com/kr/pty
@@ -1411,8 +1219,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: soheilhy/cmux
   description: 'Connection multiplexer for GoLang: serve different services on the
     same port!'
@@ -1426,8 +1232,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: stack
   description: Package stack implements utilities to capture
   package_url: https://pkg.go.dev/github.com/go-stack/stack
@@ -1440,8 +1244,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: template
   description: Fork of Go's text/template adding newline elision
   package_url: https://pkg.go.dev/github.com/alecthomas/template
@@ -1454,8 +1256,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: text
   description: Go text processing support
   package_url: https://pkg.go.dev/golang.org/x/text
@@ -1468,8 +1268,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.sum
-  last_updated_by: Ben Tranter
-  last_updated_on: 2020-04-21 18:55:42.000000000 Z
 - name: toml
   description: TOML parser for Golang with reflection
   package_url: https://pkg.go.dev/github.com/BurntSushi/toml
@@ -1482,8 +1280,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/pelletier/go-toml/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: tools
   description: Go Tools
   package_url: https://pkg.go.dev/golang.org/x/tools
@@ -1496,8 +1292,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/digitalocean/godo/go.sum
-  last_updated_by: Ben Tranter
-  last_updated_on: 2020-04-21 18:55:42.000000000 Z
 - name: tsdb
   description: The Prometheus time series database layer
   package_url: https://pkg.go.dev/github.com/prometheus/tsdb
@@ -1510,8 +1304,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: ugorji/go
   description: Idiomatic codec and rpc lib for msgpack, cbor, json, etc
   package_url: https://pkg.go.dev/github.com/ugorji/go
@@ -1524,8 +1316,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: ulid
   description: Universally Unique Lexicographically Sortable Identifier
   package_url: https://pkg.go.dev/github.com/oklog/ulid
@@ -1538,8 +1328,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: units
   description: Helpful unit multipliers and functions for Go
   package_url: https://pkg.go.dev/github.com/alecthomas/units
@@ -1552,8 +1340,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: viper
   description: Go configuration with fangs
   package_url: https://pkg.go.dev/github.com/spf13/viper
@@ -1566,8 +1352,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: yaml
   description: A better way to marshal and unmarshal YAML in Golang
   package_url: https://pkg.go.dev/github.com/ghodss/yaml
@@ -1580,8 +1364,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.sum
-  last_updated_by: Zach Gershman
-  last_updated_on: 2019-10-28 21:37:16.000000000 Z
 - name: zap
   description: Blazing fast, structured, leveled logging in Go
   package_url: https://pkg.go.dev/go.uber.org/zap
@@ -1594,8 +1376,6 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/go.sum
   detection_source: vendor/github.com/spf13/viper/go.mod
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: "@octokit/rest"
   description: GitHub REST API client for Node.js
   package_url: https://www.npmjs.com/@octokit/rest
@@ -1607,8 +1387,6 @@ tools:
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: bl
   description: 'Buffer List: collect buffers and access with a standard readable Buffer
     interface'
@@ -1621,8 +1399,6 @@ tools:
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: co
   description: Generator async control flow goodness
   package_url: https://www.npmjs.com/co
@@ -1634,8 +1410,6 @@ tools:
   image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: github
   description: 'DEPRECATED: renamed to @octokit/rest'
   package_url: https://www.npmjs.com/github
@@ -1647,8 +1421,6 @@ tools:
   image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: http
   package_url: https://www.npmjs.com/http
   license: BSD-2-Clause
@@ -1659,8 +1431,6 @@ tools:
   image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: https
   description: Https mediation
   package_url: https://www.npmjs.com/https
@@ -1672,8 +1442,6 @@ tools:
   image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: i
   description: Custom inflections for nodejs
   package_url: https://www.npmjs.com/i
@@ -1685,8 +1453,6 @@ tools:
   image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: is
   description: The definitive JavaScript type testing library
   package_url: https://www.npmjs.com/is
@@ -1698,8 +1464,6 @@ tools:
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: mv
   description: Fs.rename but works across devices
   package_url: https://www.npmjs.com/mv
@@ -1711,8 +1475,6 @@ tools:
   image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: publish
   description: Npm auto publishing of your modules
   package_url: https://www.npmjs.com/publish
@@ -1724,8 +1486,6 @@ tools:
   image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: semver
   description: The semantic version parser used by npm
   package_url: https://www.npmjs.com/semver
@@ -1737,8 +1497,6 @@ tools:
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
 - name: url
   description: The core `url` packaged standalone for use with Browserify
   package_url: https://www.npmjs.com/url
@@ -1750,5 +1508,3 @@ tools:
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
   detection_source_url: https://github.com/rlfagan/doctl/blob/master/vendor/github.com/blang/semver/package.json
   detection_source: vendor/github.com/blang/semver/package.json
-  last_updated_by: Antoine Grondin
-  last_updated_on: 2018-11-28 06:26:39.000000000 Z
