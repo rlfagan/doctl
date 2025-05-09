@@ -13,10 +13,8 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.7.0
 	github.com/gobwas/glob v0.2.3
-	github.com/gogo/protobuf v1.3.1 // indirect
-	github.com/golang/mock v1.4.0
-	github.com/golang/protobuf v1.4.2 // indirect
-	github.com/google/uuid v1.1.1
+	github.com/golang/mock v1.4.1
+	github.com/google/uuid v1.1.2
 	github.com/imdario/mergo v0.3.6 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
@@ -29,17 +27,15 @@ require (
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/viper v1.4.0
-	github.com/stretchr/testify v1.4.0
-	golang.org/x/crypto v0.0.0-20200420201142-3c4aac89819a
-	golang.org/x/net v0.0.0-20200528225125-3c3fba18258b // indirect
+	github.com/stretchr/testify v1.6.1
+	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	google.golang.org/appengine v1.6.6 // indirect
-	google.golang.org/protobuf v1.24.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 	gotest.tools/v3 v3.0.2 // indirect
-	k8s.io/api v0.17.0
-	k8s.io/apimachinery v0.17.0
-	k8s.io/client-go v0.17.0
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
+	k8s.io/client-go v0.20.0
 )
 
 replace github.com/stretchr/objx => github.com/stretchr/objx v0.2.0
